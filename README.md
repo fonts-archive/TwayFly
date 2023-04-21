@@ -32,7 +32,7 @@ font-face
 
 ```
 @font-face {
-    font-family: 'Tway Air';
+    font-family: 'Tway Fly';
     font-weight: normal;
     font-style: normal;
     font-display: swap;
