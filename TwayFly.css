@@ -1,9 +1,9 @@
 @font-face {
-    font-family: 'Tway Fly';
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/TwayFly/TwayFly.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/TwayFly/TwayFly.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/TwayFly/TwayFly.ttf') format('truetype');
+  font-family: 'Tway Fly';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/TwayFly/TwayFly.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/TwayFly/TwayFly.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/TwayFly/TwayFly.ttf') format('truetype');
 }
